@@ -1,0 +1,7 @@
+D:\SEM - 4 STUDIES\.NET Collage\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\SEM - 4 STUDIES\.NET Collage\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+D:\SEM - 4 STUDIES\.NET Collage\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+D:\SEM - 4 STUDIES\.NET Collage\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+D:\SEM - 4 STUDIES\.NET Collage\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+D:\SEM - 4 STUDIES\.NET Collage\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+D:\SEM - 4 STUDIES\.NET Collage\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
